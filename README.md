@@ -7,7 +7,7 @@
 ### 🚀 **About Me**
 - 2nd-year **B.Tech in AI & ML** student at **VIT Bhopal**.
 - Passionate about **deep learning, generative AI, computer vision and NLP**.
-- Passionate about bringing deep learning to practice by embedding AI/ML models into scalable applications. 
+- Creating projects that bring deep learning to practice by embedding AI/ML models into scalable applications. 
 
 ---
 
@@ -44,8 +44,8 @@
 ---
 
 ### 📊 **GitHub Stats**
-[![Uddhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uddhavgupta&show_icons=true&theme=radical)](https://github.com/uddhavgupta)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uddhavgupta&layout=compact&theme=radical)](https://github.com/uddhavgupta)
+[![Uddhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uddhav37&show_icons=true&theme=radical)](https://github.com/uddhav37)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uddhav37&layout=compact&theme=radical)](https://github.com/uddhav37)
 
 ---
 
